@@ -1,7 +1,7 @@
 # Brain-Tumor-Classification
 A deep learning project using CNNs to classify brain MRI images as Tumor or No Tumor. Built with TensorFlow and Keras, it applies data preprocessing and augmentation for high accuracy. Includes model evaluation metrics and an optional Django/Flask web app for real-time image-based predictions.
 
-Brain Tumor Classification using CNN (Deep Learning)
+# Brain Tumor Classification using CNN (Deep Learning) Description
 This project focuses on developing a Brain Tumor Classification System using Convolutional Neural Networks (CNN) to automatically detect and classify brain MRI scans as Tumor or No Tumor. The primary goal is to assist radiologists and medical professionals by providing a reliable and AI-driven diagnostic tool for early and accurate tumor detection.
 
 Project Overview
